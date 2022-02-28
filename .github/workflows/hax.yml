@@ -16,4 +16,4 @@ jobs:
           SECRET_PASSWORD: ${{ secrets.PASSWORD }}
         run: |
          curl -sSL -O https://github.com/CoiaPrant/Hax_extend/raw/main/HaxAutoReNew.exe
-         HaxAutoReNew.exe -user "%SECRET_USERNAME%" -password "%SECRET_PASSWORD%"
+         HaxAutoReNew.exe -user "1348380068%" -password "%wwmfj159036%"
